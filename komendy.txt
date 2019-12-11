@@ -2,3 +2,5 @@ autoprefixer-cli -o main.prefixed.css main.css
 npx autoprefixer-cli -o style.prefixed.css style.css
 
 nu-html-checker index.html
+npm i nu-html-checker
+npm i -g nu-html-checker
